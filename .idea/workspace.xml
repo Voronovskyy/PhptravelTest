@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bb07e3c-8dd5-45a0-a23b-64f85a01e3c2" name="Default Changelist" comment="" />
+    <list default="true" id="7bb07e3c-8dd5-45a0-a23b-64f85a01e3c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchHotels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchHotels.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,16 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="204">
               <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,12 +30,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="2125">
               <caret line="128" column="49" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#8931#8932#0" expanded="true" />
-                <element signature="e#8974#8975#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,8 +42,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="1598">
               <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlights.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SearchTours.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="221">
+              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,12 +114,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/VisaPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="1071">
               <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1743#1744#0" expanded="true" />
-                <element signature="e#1791#1792#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/VisaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="358">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,6 +144,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -106,7 +154,6 @@
         <option value="$PROJECT_DIR$/src/test/java/Hotels.java" />
         <option value="$PROJECT_DIR$/src/main/java/Hotels.java" />
         <option value="$PROJECT_DIR$/src/main/java/Flights.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SearchHotels.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchTours.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchFlights.java" />
         <option value="$PROJECT_DIR$/src/test/java/SignUpTestPage.java" />
@@ -120,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/main/java/VisaPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SearchHotels.java" />
       </list>
     </option>
   </component>
@@ -146,11 +194,13 @@
     <option name="width" value="1370" />
     <option name="height" value="745" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -194,11 +244,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586992391464" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587042662763" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -217,44 +266,11 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.VisaTest.testVisaBooking">
-    <configuration name="LoginPageTest and 4 more" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="softServe" />
-      <option name="TEST_OBJECT" value="PATTERN" />
-      <properties />
-      <listeners />
-      <patterns>
-        <pattern testClass="LoginPageTest" />
-        <pattern testClass="SearchFlights" />
-        <pattern testClass="SearchHotels" />
-        <pattern testClass="SearchTours" />
-        <pattern testClass="SignUpPageTest" />
-      </patterns>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginPageTest and 5 more" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="softServe" />
-      <option name="TEST_OBJECT" value="PATTERN" />
-      <properties />
-      <listeners />
-      <patterns>
-        <pattern testClass="LoginPageTest" />
-        <pattern testClass="SearchFlights" />
-        <pattern testClass="SearchHotels" />
-        <pattern testClass="SearchTours" />
-        <pattern testClass="SignUpPageTest" />
-        <pattern testClass="VisaTest" />
-      </patterns>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginPageTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchFlights.testFlightSearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="softServe" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="MAIN_CLASS_NAME" value="SearchFlights" />
+      <option name="METHOD_NAME" value="testFlightSearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -262,11 +278,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchFlights.testFlightSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchHotels.testSearchHotels" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="softServe" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchFlights" />
-      <option name="METHOD_NAME" value="testFlightSearch" />
+      <option name="MAIN_CLASS_NAME" value="SearchHotels" />
+      <option name="METHOD_NAME" value="testSearchHotels" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTours.testToursSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="softServe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchTours" />
+      <option name="METHOD_NAME" value="testToursSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest.signUpTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="softServe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpPageTest" />
+      <option name="METHOD_NAME" value="signUpTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -289,9 +329,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.VisaTest.testVisaBooking" />
-        <item itemvalue="TestNG.LoginPageTest and 5 more" />
-        <item itemvalue="TestNG.LoginPageTest and 4 more" />
-        <item itemvalue="TestNG.LoginPageTest.loginTest" />
+        <item itemvalue="TestNG.SignUpPageTest.signUpTest" />
+        <item itemvalue="TestNG.SearchTours.testToursSearch" />
+        <item itemvalue="TestNG.SearchHotels.testSearchHotels" />
         <item itemvalue="TestNG.SearchFlights.testFlightSearch" />
       </list>
     </recent_temporary>
@@ -310,24 +350,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 45m 57s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 48m 00s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 52m 21s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 56m 09s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 57m 08s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 01h 58m 46s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LoginPageTest_and_5_more - 2020.04.16 at 02h 03m 08s.xml">
       <configuration name="LoginPageTest and 5 more" configurationId="TestNG" />
     </history-entry>
@@ -340,6 +362,24 @@
     <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 02h 11m 25s.xml">
       <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 02h 12m 22s.xml">
+      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 02h 13m 03s.xml">
+      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPageTest_loginTest - 2020.04.16 at 16h 06m 53s.xml">
+      <configuration name="LoginPageTest.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchFlights_testFlightSearch - 2020.04.16 at 16h 07m 31s.xml">
+      <configuration name="SearchFlights.testFlightSearch" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotels_testSearchHotels - 2020.04.16 at 16h 08m 08s.xml">
+      <configuration name="SearchHotels.testSearchHotels" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchTours_testToursSearch - 2020.04.16 at 16h 10m 00s.xml">
+      <configuration name="SearchTours.testToursSearch" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -350,15 +390,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -419,62 +459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchTours.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-187">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,20 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -523,32 +501,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="2125">
           <caret line="128" column="49" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#8931#8932#0" expanded="true" />
-            <element signature="e#8974#8975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VisaPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="1071">
           <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1743#1744#0" expanded="true" />
-            <element signature="e#1791#1792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlights.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchTours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VisaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="307">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -16,8 +16,8 @@ public class SearchHotels {
                 .goToHotelsSearchMenu()
                 .setValueIntoHotelsDestination(information.hotelsDestination)
                 .selectValueFromHotelsDropDownList()
-                .setValueIntoHotelsCheckOutDate(information.actualDate)
-                .setValueIntoHotelsCheckInDate(information.actualDatePlusMonth)
+                .setValueIntoHotelsCheckOutDate(information.actualDatePlusMonth)
+                .setValueIntoHotelsCheckInDate(information.actualDate)
                 .clickSearchHotel()
                 .getHotelsConfirmationText();
 
