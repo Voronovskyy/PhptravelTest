@@ -14,7 +14,7 @@ public class HomePage extends BaseClass {
         PageFactory.initElements(driver,this);
     }
 
-    //Hotels search
+    //HotelsPage search
     @FindBy(xpath = "//a[@href='#hotels']")
     private WebElement hotelsButton;
 
@@ -37,12 +37,12 @@ public class HomePage extends BaseClass {
     private WebElement labelButton;
 
     @FindBy(xpath = "//div[@class='col-md-2 col-xs-12']/button")
-    private WebElement hotesltSearchButton;
+    private WebElement hotelsSearchButton;
 
     @FindBy(xpath = "//*[@class='heading-title']")
     private WebElement hotelsActualResult;
 
-    //Flights search
+    //FlightsPage search
     @FindBy(xpath = "//*[@href='#flights']")
     private WebElement flightsButton;
 
@@ -73,7 +73,7 @@ public class HomePage extends BaseClass {
     @FindBy(xpath = "//*[@class='heading-title']")
     private WebElement flightsActualResult;
 
-    //Tours search
+    //ToursPage search
     @FindBy(xpath = "//*[@href='#tours']")
     private WebElement toursButton;
 
@@ -140,7 +140,7 @@ public class HomePage extends BaseClass {
     @FindBy(xpath = "//div[contains(@class, 'dropdown-login')]//a[contains (text(), 'Sign Up')]")
     private WebElement signUpElement;
 
-    //Hotels methods
+    //HotelsPage methods
     public HomePage goToHotelsSearchMenu(){
         this.hotelsButton.click();
         return this;
@@ -173,7 +173,7 @@ public class HomePage extends BaseClass {
 
     public HomePage clickSearchHotel(){
         this.labelButton.click();
-        this.hotesltSearchButton.click();
+        this.hotelsSearchButton.click();
         return this;
     }
 
@@ -181,7 +181,7 @@ public class HomePage extends BaseClass {
         return this.hotelsActualResult.getText();
     }
 
-    //Flights methods
+    //FlightsPage methods
     public HomePage goToFlightsSearchMenu(){
         this.flightsButton.click();
         return this;
@@ -217,7 +217,7 @@ public class HomePage extends BaseClass {
         return this.flightsActualResult.getText();
     }
 
-    //Tours methods
+    //ToursPage methods
     public HomePage goToToursSearchMenu(){
         this.toursButton.click();
         return this;
@@ -259,10 +259,10 @@ public class HomePage extends BaseClass {
     }
 
     //Login method
-    public LoginPage goToLoginPage() {
+    public LogInPage goToLoginPage() {
         this.loginDropDown.click();
         this.loginElement.click();
-        return new LoginPage(driver);
+        return new LogInPage(driver);
     }
 
     //SignUpPage method

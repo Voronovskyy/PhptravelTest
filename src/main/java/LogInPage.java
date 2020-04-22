@@ -2,9 +2,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class LoginPage extends BaseClass {
+public class LogInPage extends BaseClass {
 
-    public LoginPage(WebDriver driver)
+    public LogInPage(WebDriver driver)
     {
         super(driver);
     }
@@ -21,19 +21,19 @@ public class LoginPage extends BaseClass {
     @FindBy(className = "text-align-left")
     private WebElement accountText;
 
-    public LoginPage setUserName(String value)
+    public LogInPage setUserName(String value)
     {
         userName.sendKeys(value);
         return this;
     }
 
-    public LoginPage setPassword(String value)
+    public LogInPage setPassword(String value)
     {
         password.sendKeys(value);
         return this;
     }
 
-    public LoginPage clickSearchButton()
+    public LogInPage clickSearchButton()
     {
         searchButton.click();
         return this;

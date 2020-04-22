@@ -9,16 +9,16 @@ public class Information {
     final String actualDatePlusMonth;
     final String hotelsExpectedResult;
 
-    //Hotels information
+    //HotelsPage information
     final String hotelsDestination;
     final String actualDate;
 
-    //Flights information
+    //FlightsPage information
     final String flightsFromValue;
     final String flightsToValue;
     final String flightsExpectedResult;
 
-    //Tours information
+    //ToursPage information
     final String toursDestination;
     final String toursExpectedResult;
 
@@ -30,7 +30,7 @@ public class Information {
     final String password;
     final String signUpExpectedResult;
 
-    //LoginPage
+    //LogInPage
     final String userName;
     final String userPassword;
     final String loginExpectedResult;
@@ -76,16 +76,16 @@ public class Information {
         userPassword = "demouser";
         loginExpectedResult = "Hi, Demo User";
 
-        //Hotels
+        //HotelsPage
         hotelsDestination = "Lviv";
-        hotelsExpectedResult = "Hotels Lviv";
+        hotelsExpectedResult = "HotelsPage Lviv";
 
-        //Flights
+        //FlightsPage
         flightsFromValue = "KRK";
         flightsToValue = "IEV";
         flightsExpectedResult = "KRK to IEV";
 
-        //Tours
+        //ToursPage
         toursDestination = "Kiev";
         toursExpectedResult = "Kiev";
 

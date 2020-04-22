@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bb07e3c-8dd5-45a0-a23b-64f85a01e3c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AboutUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BlogPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BookingTipsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarRentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FAQPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Footer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HowToBookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OurPartnersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrivacyPolicyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpecialOffersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TermsOfUsePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchHotels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchHotels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Flights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FlightsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hotels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HotelsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LogInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToursPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LogInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchFlights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchFlightsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchHotels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchHotelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchToursTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,22 +38,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="128" column="49" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
+            <state relative-caret-position="678">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
+            <state relative-caret-position="1666">
               <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,85 +62,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TermsOfUsePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlights.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotels.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SearchTours.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VisaPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/VisaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -166,8 +101,13 @@
         <option value="$PROJECT_DIR$/src/test/java/SignUpPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/VisaPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/VisaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchHotels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LogInPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ToursPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SearchFlightsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BookingTipsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
       </list>
     </option>
   </component>
@@ -201,7 +141,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,10 +183,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587042662763" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587581538714" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -265,23 +205,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.VisaTest.testVisaBooking">
-    <configuration name="SearchFlights.testFlightSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="softServe" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchFlights" />
-      <option name="METHOD_NAME" value="testFlightSearch" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchHotels.testSearchHotels" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchHotelsTest.testSearchHotels" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="softServe" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchHotels" />
+      <option name="MAIN_CLASS_NAME" value="SearchHotelsTest" />
       <option name="METHOD_NAME" value="testSearchHotels" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -290,10 +225,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTours.testToursSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchToursTest.testToursSearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="softServe" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchTours" />
+      <option name="MAIN_CLASS_NAME" value="SearchToursTest" />
       <option name="METHOD_NAME" value="testToursSearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -328,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="TestNG.VisaTest.testVisaBooking" />
         <item itemvalue="TestNG.SignUpPageTest.signUpTest" />
-        <item itemvalue="TestNG.SearchTours.testToursSearch" />
-        <item itemvalue="TestNG.SearchHotels.testSearchHotels" />
-        <item itemvalue="TestNG.SearchFlights.testFlightSearch" />
+        <item itemvalue="TestNG.SearchToursTest.testToursSearch" />
+        <item itemvalue="TestNG.SearchHotelsTest.testSearchHotels" />
       </list>
     </recent_temporary>
   </component>
@@ -350,12 +285,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest_and_5_more - 2020.04.16 at 02h 03m 08s.xml">
-      <configuration name="LoginPageTest and 5 more" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 02h 05m 46s.xml">
-      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 02h 07m 52s.xml">
       <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
     </history-entry>
@@ -380,6 +309,12 @@
     <history-entry file="SearchTours_testToursSearch - 2020.04.16 at 16h 10m 00s.xml">
       <configuration name="SearchTours.testToursSearch" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SignUpPageTest_signUpTest - 2020.04.16 at 16h 10m 47s.xml">
+      <configuration name="SignUpPageTest.signUpTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VisaTest_testVisaBooking - 2020.04.16 at 16h 11m 27s.xml">
+      <configuration name="VisaTest.testVisaBooking" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -390,14 +325,14 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15033557" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.21529745" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -421,44 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Flights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tours.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SignUpPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-543">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#1738#1739#0" expanded="true" />
-            <element signature="e#1786#1787#0" expanded="true" />
-            <element signature="e#1828#1829#0" expanded="true" />
-            <element signature="e#1877#1878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-187">
@@ -466,53 +363,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotelsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Hotels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="289">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchToursTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="128" column="49" selection-start-line="128" selection-start-column="49" selection-end-line="128" selection-end-column="49" />
+        <state relative-caret-position="68">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+        <state relative-caret-position="289">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -529,40 +403,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlights.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchTours.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FlightsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HotelsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SignUpPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LogInTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -571,7 +450,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VisaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="374">
           <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -579,10 +458,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SearchHotels.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToursPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SearchFlightsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarRentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LogInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ContactPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AboutUsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BlogPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BookingTipsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FAQPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Footer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HowToBookPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OurPartnersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PrivacyPolicyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SpecialOffersPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TermsOfUsePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -2,7 +2,7 @@ import com.sun.org.glassfish.gmbal.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class SearchTours {
+public class SearchToursTest {
 
     @Test
     @Description("This testcase verify that tours result page open")
